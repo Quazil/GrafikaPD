@@ -343,5 +343,6 @@ win = pygame.display.set_mode((s_width, s_height))
 pygame.display.set_caption('T E T R I S')
 
 main_menu()
+#dziala
 
 
